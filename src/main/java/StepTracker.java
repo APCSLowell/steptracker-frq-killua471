@@ -7,7 +7,7 @@ public class StepTracker
   minsteps=num;
   steps=0;
   days=0;
-  daysA=0
+  daysA=0;
  }
  public int activeDays(){
   return daysA;
