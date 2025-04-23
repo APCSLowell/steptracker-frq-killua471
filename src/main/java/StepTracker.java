@@ -4,7 +4,7 @@ public class StepTracker
  /* to be implemented here */
  private int minSteps,steps,daysA,days;
  public StepTracker(int num){
-  minsteps=num;
+  minSteps=num;
   steps=0;
   days=0;
   daysA=0;
